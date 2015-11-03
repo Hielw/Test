@@ -6,3 +6,8 @@ Git is Fuck free software.
 
 This is a new LINE!
 ERRor, ERROR
+
+Stupie ERRor!
+
+
+new branch
