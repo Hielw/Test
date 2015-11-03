@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free software.
+Git is Fuck free software.
 
 3 lines;
 4line
